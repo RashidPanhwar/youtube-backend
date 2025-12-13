@@ -1,0 +1,16 @@
+{
+  "name": "youtube_backend",
+  "version": "1.0.0",
+  "description": "youtube backend for prectice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "youtube",
+    "prectice"
+  ],
+  "author": "Rashid Ali Panhwar",
+  "license": "ISC"
+}
